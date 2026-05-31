@@ -1,0 +1,21 @@
+/* TEAM */
+Developer & SEO Manager: Ahana Digital
+Contact: info@getahana.com
+Site: https://getahana.com
+Location: Toronto, Ontario, Canada
+
+/* CLIENT */
+Business: Lizz Roof
+Contact: lizz@lroof.com
+Site: https://ahana-lizzie-s-roofing-2605311720.netlify.app
+Location: Toronto, ON
+
+/* SITE */
+Last update: 2026-04-23
+Standards: HTML5, CSS3; accessibility practices targeting WCAG 2.1 AA
+Hosting: Netlify
+Language: en
+
+/* THANKS */
+Built for the tradespeople who keep
+our homes running.
