@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahana-lizzie-s-roofing-2605311720.netlify.app/sitemap.xml
